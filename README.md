@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fruneen
+- 👋 Hi, I’m Fruneen
 - 👀 I’m interested in Web technologies
 - 🌱 I am currently studying at BSU, majoring in "IT and Mathematics"
 
