@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fruneen
+- 👋 Hi, I’m Evgeny
 - 👀 I’m interested in Web technologies
-- 🌱 I am currently studying at BSU, majoring in "IT and Mathematics"
+- 👨‍💻 R&D Tech Lead at Paralect
 
 <!---
 Fruneen/Fruneen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
